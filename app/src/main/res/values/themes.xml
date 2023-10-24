@@ -1,0 +1,4 @@
+<resources>
+    <style name="Base.Theme.BirthdayOfHour" parent="Theme.Material3.DayNight.NoActionBar"></style>
+    <style name="Theme.BirthdayOfHour" parent="Base.Theme.BirthdayOfHour" />
+</resources>
